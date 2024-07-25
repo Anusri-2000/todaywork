@@ -1,0 +1,11 @@
+/*.Elements p::before{
+    content: "this is my paragraph";
+    color:red;
+}
+.Elements p::after{
+    content:"this is end of my paragraph";
+    color:blue;
+}*/
+.Elements p::first-line{
+    color: aquamarine;
+}

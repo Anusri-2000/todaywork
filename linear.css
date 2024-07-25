@@ -1,0 +1,10 @@
+.sample-box{
+    background: linear-gradient(to right,pink,lightblue,yellow);
+    height: 300px;
+    width: 1450px;
+}
+.sample-2{
+    background: radial-gradient(circle,lightblue,rgb(0,109,128),rgb(192,189,17));
+    height: 300px;
+    
+}
